@@ -1,2 +1,7 @@
-# Hello-world
-my practice code
+
+  <!DOCTYPE html>
+	<html>
+	<head>
+    <p>hello i am vir</p>
+	</head>
+  </html>
